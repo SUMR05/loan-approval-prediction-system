@@ -1,0 +1,18 @@
+{
+  "Gender": "Male",
+  "Married": "Yes",
+  "Dependents": "0",
+  "Education": "Graduate",
+  "Self_Employed": "No",
+  "Employment_Status": "Salaried",
+  "Property_Area": "Urban",
+  "ApplicantIncome": 7322.0,
+  "CoapplicantIncome": 1147.0,
+  "LoanAmount": 139.0,
+  "Loan_Amount_Term": 180.0,
+  "Credit_Score": 650.0,
+  "Credit_History": 1.0,
+  "Existing_Loans_Count": 0.0,
+  "Years_At_Current_Job": 2.7,
+  "Debt_To_Income_Ratio": 0.097
+}

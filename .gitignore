@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Microsoft Office lock/temp files
+~$*
+
+# Regenerable intermediate build artifacts (run scripts/run_pipeline.py to recreate)
+*.db
+data/processed/
+
+# Large, version-fragile trained model binaries (regenerable via train_models.py)
+models/*.pkl
+
+# Keep: data/raw/ (sample dataset), data/powerbi/ (dashboard deliverable),
+# models/*.json (metadata, small + human-readable), outputs/ (reports, charts, PDF, PPT)

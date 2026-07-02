@@ -1,0 +1,6 @@
+Applicant_ID,Gender,Married,Dependents,Education,Self_Employed,Employment_Status,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_Score,Credit_History,Existing_Loans_Count,Years_At_Current_Job,Debt_To_Income_Ratio,Property_Area
+NEW001,Male,Yes,1,Graduate,No,Salaried,9500,3200,120,360,760,1,0,6.5,0.18,Urban
+NEW002,Female,No,0,Graduate,No,Salaried,3200,0,90,360,590,0,2,1.2,0.55,Rural
+NEW003,Male,Yes,2,Not Graduate,Yes,Self-Employed,6000,1500,150,180,650,1,1,9.0,0.32,Semiurban
+NEW004,Female,Yes,3+,Graduate,No,Business Owner,15000,4000,300,240,810,1,0,12.0,0.15,Urban
+NEW005,Male,No,0,Not Graduate,No,Unemployed,1800,0,60,360,540,0,3,0.5,0.68,Rural
