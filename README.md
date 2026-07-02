@@ -6,6 +6,8 @@ income, credit history, employment status, loan amount, loan term, credit
 score, and other risk factors. Built with Python, SQL, Pandas, Scikit-learn,
 and a Power BI-ready dashboard dataset.
 
+![Model Comparison](outputs/model_comparison_chart.png)
+
 ---
 
 ## 1. Project Structure
