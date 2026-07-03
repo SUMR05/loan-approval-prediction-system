@@ -10,12 +10,10 @@ and a Power BI-ready dashboard dataset.
 
 ---
 
-## Presentation & Report Preview
+## Report Preview
 
-> GitHub can't render `.pptx`/`.pdf` files inline, so here's a preview.
-> Full files: [PowerPoint deck](outputs/Loan_Approval_Prediction_System.pptx) ·
-> [PDF report](outputs/Loan_Approval_Prediction_System_Overview.pdf) ·
-> [**View PPT in browser**](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FSUMR05%2Floan-approval-prediction-system%2Fmain%2Foutputs%2FLoan_Approval_Prediction_System.pptx)
+> GitHub can't render `.pdf` files inline, so here's a preview.
+> Full file: [PDF report](outputs/Loan_Approval_Prediction_System_Overview.pdf)
 
 <p float="left">
   <img src="outputs/preview/preview_overview.png" width="32%" />

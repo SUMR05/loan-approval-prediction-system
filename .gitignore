@@ -13,5 +13,8 @@ data/processed/
 # Large, version-fragile trained model binaries (regenerable via train_models.py)
 models/*.pkl
 
+# PPT is for local/personal use only - regenerate with scripts/generate_ppt.py
+outputs/*.pptx
+
 # Keep: data/raw/ (sample dataset), data/powerbi/ (dashboard deliverable),
-# models/*.json (metadata, small + human-readable), outputs/ (reports, charts, PDF, PPT)
+# models/*.json (metadata, small + human-readable), outputs/ (reports, charts, PDF)
